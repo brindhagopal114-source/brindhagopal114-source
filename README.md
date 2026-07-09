@@ -18,15 +18,15 @@ I believe the best innovations happen where software meets engineering.
 
 ## 💡 What I'm Interested In
 
-💻 Software Development
+ Software Development
 
-🧠 Problem Solving
+ Problem Solving
 
-⚙️ Embedded Systems
+ Embedded Systems
 
-📡 Internet of Things (IoT)
+ Internet of Things (IoT)
 
-🌱 Continuous Learning
+ Continuous Learning
 
 ---
 
@@ -120,9 +120,9 @@ To become a Software Engineer who develops efficient, scalable, and impactful so
 
 ## 🤝 Let's Connect
 
-📧 Email: brindhagopal114@gmail.com
+ Email: brindhagopal114@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/brindha-g-7a2706291
+ LinkedIn: www.linkedin.com/in/brindha-g-7a2706291
 
 ---
 
