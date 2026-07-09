@@ -2,7 +2,7 @@
 
 ### Aspiring Software Engineer | Electronics and Communication Engineering Student
 
-> Crafting intelligent software with an engineer's perspective—where clean code, embedded innovation, and real-world impact come together.
+> Crafting intelligent software with an engineer's perspective,where clean code, embedded innovation, and real-world impact come together.
 
 ---
 
