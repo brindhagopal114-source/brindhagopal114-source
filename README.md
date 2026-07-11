@@ -92,15 +92,15 @@ ESP32 • NFC • Python • Telegram Bot
 
 ## 🏆 Achievements
 
- Winner of Reverse Engineering at Sri Ramakrishna Engineering College
+ - Winner of Reverse Engineering at Sri Ramakrishna Engineering College
 
- Shortlisted for the Smart India Hackathon Internal College Round.
+ - Shortlisted for the Smart India Hackathon Internal College Round.
 
- Shortlisted for the Final Round of the Domestic Hackathon at Sri Ramakrishna Engineering College.
+ - Shortlisted for the Final Round of the Domestic Hackathon at Sri Ramakrishna Engineering College.
 
- Active Member of Entrepreneurship Development Cell (EDC).
+ - Active Member of Entrepreneurship Development Cell (EDC).
 
- NSS Volunteer.
+ - NSS Volunteer.
 
 ---
 
