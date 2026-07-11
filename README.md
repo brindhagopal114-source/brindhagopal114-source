@@ -18,15 +18,15 @@ I believe the best innovations happen where software meets engineering.
 
 ## 💡 What I'm Interested In
 
- Software Development
+- Software Development
 
- Problem Solving
+- Problem Solving
 
- Embedded Systems
+- Embedded Systems
 
- Internet of Things (IoT)
+- Internet of Things (IoT)
 
- Continuous Learning
+- Continuous Learning
 
 ---
 
@@ -70,7 +70,7 @@ This experience strengthened my engineering fundamentals and improved my practic
 
 ## 🚀 Featured Projects
 
-### 🪖 Underground Mine Communication Using LoRa
+### Underground Mine Communication Using LoRa
 
 A smart safety system that monitors miners' health and environmental conditions using ESP32 and LoRa communication.
 
@@ -80,7 +80,7 @@ ESP32 • LoRa • Embedded C • IoT
 
 ---
 
-### 📱 NFC Hostel Exit System
+### NFC Hostel Exit System
 
 Designed an NFC-based hostel exit management system integrated with Telegram Bot for secure student verification.
 
